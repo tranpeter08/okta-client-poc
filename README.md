@@ -1,3 +1,15 @@
+## Environment variables
+
+REACT_APP_CLIENT_CODE: Okta client ID.
+
+REACT_APP_OKTA_DOMAIN: Okta domain.
+
+REACT_APP_RESOURCE_SERVER_URL: API url (should be localhost:8000).
+
+REACT_APP_HOST_DOMAIN: http://localhost:3000
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
